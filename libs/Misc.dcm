@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BME688
+D Digital low power gas, pressure, temperature & humidity sensor with AI
+K bosch
+F https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme688-ds000.pdf
+$ENDCMP
+#
+$CMP MAX17330X22+
+D AccuCharge + ModelGauge 1-Cell Charger, Fuel Gauge and Protector
+F https://datasheets.maximintegrated.com/en/ds/MAX17330.pdf
+$ENDCMP
+#
+$CMP MAX30003CTI+
+D Ultra-Low Power, Single-Channel Integrated Biopotential (ECG, R-to-R Detection) AFE
+F https://www.mouser.com/datasheet/2/256/maxim_integrated_products_maxm-s-a0009086108-1-1749836.pdf
+$ENDCMP
+#
+$CMP RAK3172
+D RAK3172 WisDuo LPWAN Module
+F https://docs.rakwireless.com/Product-Categories/WisDuo/RAK3172-Module/Datasheet/
+$ENDCMP
+#
+$CMP SX9210
+D PerSe TM Control, Low Power 3-ch. Human Sensor
+F https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/2R000000UhVf/_oKgstKC7CCljWxbYQ.E48VQJTo9WvOwEEIIF0l5owk
+$ENDCMP
+#
+$CMP TLV8541DBVR
+D Single, 3.6-V, 8-kHz, ultra-low quiescent current (550-nA), RRIO operational amplifier
+K single low power op amp
+F https://www.ti.com/lit/ds/symlink/tlv8541.pdf
+$ENDCMP
+#
+$CMP TLV8542DR
+D Dual, 3.6-V, 8-kHz, ultra-low quiescent current (500-nA), RRIO operational amplifier
+F https://www.ti.com/lit/ds/symlink/tlv8542.pdf
+$ENDCMP
+#
+$CMP TPS61021A
+D TPS61021A 3-A Boost Converter with 0.5-V Ultra Low Input Voltage
+F https://www.ti.com/lit/ds/symlink/tps61021a.pdf
+$ENDCMP
+#
+$CMP TPS61291DRVR
+D Low Iq Boost Converter with 15nA Bypass Operation
+K boost converter
+F https://www.ti.com/lit/ds/symlink/tps61291.pdf
+$ENDCMP
+#
+#End Doc Library
